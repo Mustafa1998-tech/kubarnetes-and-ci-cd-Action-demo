@@ -78,3 +78,4 @@ kubectl delete hpa cka-demo
 1. After deployment, you should see "Hello CKA Demo" when accessing the service URL
 2. Use `kubectl get all` to see all resources
 3. Check logs with `kubectl logs -l app=cka-demo`
+# Trigger CI/CD
