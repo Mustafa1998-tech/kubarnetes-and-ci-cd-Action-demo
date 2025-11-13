@@ -79,3 +79,4 @@ kubectl delete hpa cka-demo
 2. Use `kubectl get all` to see all resources
 3. Check logs with `kubectl logs -l app=cka-demo`
 # Trigger CI/CD
+ autor ENG MUSTAFA 
